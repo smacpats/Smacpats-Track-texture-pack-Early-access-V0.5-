@@ -1,4 +1,7 @@
-﻿Smacpats’ Track Texture pack Early Access v0.5
+﻿
+ This github repository is for if you wish to pick out songs for specific tracks. If you wish to install the entire pack, click here: https://github.com/smacpats/Smacpats-Track-texture-pack-MKWII-/archive/master.zip to download the entire pack. 
+ 
+ Smacpats’ Track Texture pack Early Access v0.5
 
 
 
